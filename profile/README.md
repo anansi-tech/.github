@@ -1,17 +1,3 @@
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/anansi-tech/.github/main/profile/logo.png" width="96" alt="Anansi" />
-
-# Anansi Technology LLC
-
-**Applied AI and decentralized software for markets the world has ignored.**
-
-[anansi.xyz](https://anansi.xyz) · Miami, FL
-
-</div>
-
----
-
 Anansi builds products at the intersection of artificial intelligence, decentralized technology, and economic access. The products are globally scoped; the proving ground is the Caribbean — the region the founder knows deeply enough to build with authority. Caribbean-first as proof, global from day one.
 
 ## What we build
@@ -39,7 +25,5 @@ Intensive, practical AI training for working professionals and teams.
 <div align="center">
 
 Building where others don't look.
-
-© 2026 Anansi Technology LLC · Miami, FL
 
 </div>
