@@ -18,7 +18,7 @@ Intensive, practical AI training for working professionals and teams.
 
 **Spice** — Real-world asset tokenization on Sui. A producer delivers a commodity, receives tradeable on-chain tokens, and accesses immediate liquidity; global buyers get transparent exposure with on-chain yield. MVP: Grenada nutmeg. *Built and running on Sui testnet; mainnet pending partnership and audit.*
 
-**CaribCoin** — The shared protocol token that flows through every Anansi product: fees, staking, and priority access. Fixed supply of 10B, no inflation, utility-driven. *Infrastructure — deployed on testnet.*
+**CaribCoin** — A Caribbean-rooted cultural cryptocurrency project with global participation. CARIB is proposed on Sui, with merchant offers and funded rewards as planned uses. *Vision and design published; no public mainnet token or sale announced.* [Explore CaribCoin](https://anansi.xyz/caribcoin).
 
 ---
 
