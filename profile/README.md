@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/horizontal-reverse.svg">
-    <img src="assets/horizontal-color.svg" alt="Anansi" width="360">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/wordmark-reverse.svg">
+    <img src="assets/wordmark-color.svg" alt="Anansi" width="360">
   </picture>
 </p>
 
