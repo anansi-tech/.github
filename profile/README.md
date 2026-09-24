@@ -4,11 +4,11 @@ Anansi builds products at the intersection of artificial intelligence, decentral
 
 **AI Products**
 Applied AI for professionals and underserved markets — real engineering, not API wrappers.
-→ CogniCare · Thryve
+→ CogniCare
 
 **Finance & Real Assets**
 On-chain rails for capital and value the system overlooks — from tokenized commodities to low-minimum Web3 savings.
-→ Spice · Dollar Bank
+→ Spice
 
 **Education**
 Intensive, practical AI training for working professionals and teams.
