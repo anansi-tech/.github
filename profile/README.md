@@ -20,7 +20,7 @@ Anansi builds applied AI for the people and places modern software overlooks, an
 ## Also from the lab
 
 - **[Kairo](https://kairo.anansi.xyz)**: hands-on AI workshops for professionals.
-- **[CaribCoin](https://anansi.xyz/caribcoin)**: the Caribbean's culture token.
+- **[CaribCoin](https://caribcoin.org)**: the Caribbean's culture token.
 - **Spice**: real-world asset tokenization on Sui. In development.
 
 <p align="center"><a href="https://anansi.xyz">anansi.xyz</a></p>
