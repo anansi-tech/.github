@@ -1,29 +1,26 @@
-Anansi builds products at the intersection of artificial intelligence, decentralized technology, and economic access. The products are globally scoped; the proving ground is the Caribbean — the region the founder knows deeply enough to build with authority. Caribbean-first as proof, global from day one.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/horizontal-reverse.svg">
+    <img src="assets/horizontal-color.svg" alt="Anansi" width="360">
+  </picture>
+</p>
 
-## What we build
+<p align="center"><b>An applied AI lab · Miami</b><br>Intelligence belongs to everyone.</p>
 
-**AI Products**
-Applied AI for professionals and underserved markets — real engineering, not API wrappers.
-→ CogniCare
+In the old story, Anansi the spider won all the world's stories from the Sky God and gave them to everyone. So should intelligence.
 
-**Finance & Real Assets**
-On-chain rails for capital and value the system overlooks — from tokenized commodities to non-custodial personal finance on Sui with a plain-language agent.
-→ Spice · CashPan
+Anansi builds applied AI for the people and places modern software overlooks, and proves it with products that work.
 
-**Education**
-Intensive, practical AI training for working professionals and teams.
-→ Kairo
+## Live
 
-## Featured
+- **[CogniCare](https://cognicarehq.com)**: AI clinical practice management for therapists, with an AI clinical team and an in-session copilot.
+- **[CashPan](https://cashpan.app)**: non-custodial personal finance on Sui, managed by talking to it.
+- **[ExtraLesson](https://extralesson.app)**: AI tutoring and marking for CSEC Mathematics.
 
-**Spice** — Real-world asset tokenization on Sui. A producer delivers a commodity, receives tradeable on-chain tokens, and accesses immediate liquidity; global buyers get transparent exposure with on-chain yield. MVP: Grenada nutmeg. *Built and running on Sui testnet; mainnet pending partnership and audit.*
+## Also from the lab
 
-**CaribCoin** — The Caribbean's culture token. [Explore CaribCoin](https://anansi.xyz/caribcoin).
+- **[Kairo](https://kairo.anansi.xyz)**: hands-on AI workshops for professionals.
+- **[CaribCoin](https://anansi.xyz/caribcoin)**: the Caribbean's culture token.
+- **Spice**: real-world asset tokenization on Sui. In development.
 
----
-
-<div align="center">
-
-Building where others don't look.
-
-</div>
+<p align="center"><a href="https://anansi.xyz">anansi.xyz</a></p>
