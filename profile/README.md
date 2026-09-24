@@ -7,12 +7,12 @@ Applied AI for professionals and underserved markets — real engineering, not A
 → CogniCare
 
 **Finance & Real Assets**
-On-chain rails for capital and value the system overlooks — from tokenized commodities to low-minimum Web3 savings.
-→ Spice
+On-chain rails for capital and value the system overlooks — from tokenized commodities to non-custodial personal finance on Sui with a plain-language agent.
+→ Spice · CashPan
 
 **Education**
 Intensive, practical AI training for working professionals and teams.
-→ Anansi Academy
+→ Kairo
 
 ## Featured
 
